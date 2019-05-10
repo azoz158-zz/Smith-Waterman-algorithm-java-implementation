@@ -10,7 +10,6 @@ To run the algorithm in a sequential fashion. Only requires 1 CPU core.
 Real input data examples.
 
 ## How to run the program
-Check [this document](Howtoruntheprogram.docx) for instruction of how to run both programs and use the input data.
-
+Check [this document](How%20to%20run%20the%20program.docx) for instruction of how to run both programs and use the input data.
 ### -------------------------------------------------------------
 If there are any questions. please do not hesistate to ask. Thank you.
